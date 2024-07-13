@@ -1,0 +1,16 @@
+{
+    "folders": [
+		{
+			"path": "../../../../mi primera wev"
+		}
+	],
+    "settings": {
+        "files.exclude": {
+            "": true
+        },
+        "search.exclude": {
+            "": true
+        },
+        "liveServer.settings.multiRootWorkspaceName": "mi primera wev"
+    }
+}
